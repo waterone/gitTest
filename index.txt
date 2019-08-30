@@ -1,0 +1,2 @@
+这是用vscode写的txt文件
+vscode很好用，nice
